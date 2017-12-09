@@ -1,0 +1,53 @@
+.dn--toggle {
+    position: absolute;
+    top: 0;
+    right: 0;
+    $toggle-bg-color: $color__gray;
+    $toggle-nub-color: $color__gold;
+    $font-color: #4fbca1;
+    .toggle {
+        margin-top: 40px;
+        input[type='checkbox'] {
+            display: none;
+        }
+
+        label {
+            color: $font-color;
+            position: relative;
+        }
+
+        input[type='checkbox'] + label::before {
+            content: ' ';
+            cursor: pointer;
+            display: block;
+            height: 12px;
+            width: 35px;
+            border: 1px solid $toggle-bg-color;
+            border-radius: 9px;
+            position: absolute;
+            top: 0px;
+            left: -65px;
+            background: $toggle-bg-color;
+        }
+
+        input[type='checkbox'] + label::after {
+            cursor: pointer;
+            content: ' ';
+            display: block;
+            height: 20px;
+            width: 20px;
+            border: 1px solid $toggle-nub-color;
+            border-radius: 50%;
+            position: absolute;
+            top: -4px;
+            left: -75px;
+            background: $toggle-nub-color;
+            transition: all 0.3s ease-in;
+        }
+
+        input[type='checkbox']:checked + label::after {
+            left: -40px;
+            transition: all 0.3s ease-in;
+        }
+    }
+}

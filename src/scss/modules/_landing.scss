@@ -1,0 +1,145 @@
+@keyframes wobble {
+    from {
+        transform: none;
+    }
+
+    15% {
+        transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -10deg);
+    }
+
+    30% {
+        transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 8deg);
+    }
+
+    45% {
+        transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -10deg);
+    }
+
+    60% {
+        transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 5deg);
+    }
+
+    75% {
+        transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -3deg);
+    }
+
+    to {
+        transform: none;
+    }
+}
+
+.content {
+    height: 100%;
+    background-color: $color__black;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    padding: 0 15%;
+    overflow: auto;
+
+    &__inner {
+        position: relative;
+        margin: auto 0;
+    }
+}
+
+.title {
+    &__h1 {
+        display: inline-block;
+        margin: 0;
+        position: relative;
+        z-index: 1;
+        font-family: 'ChunkFive', serif;
+        font-weight: 700;
+        font-size: 7.2rem;
+        letter-spacing: 1.5px;
+
+        &--pulse {
+            position: relative;
+        }
+
+        &--wave {
+            margin-left: -73px;
+            margin-bottom: 10px;
+            &::before {
+                content: '👋';
+                animation-name: wobble;
+                animation-duration: 1s;
+                animation-delay: 1s;
+
+                animation-fill-mode: both;
+                font-size: 5.4rem;
+                display: inline-block;
+                padding-top: 20px;
+            }
+
+            .title__bg {
+                &::before {
+                    left: 72px;
+                }
+            }
+        }
+    }
+
+    &__emoji {
+        padding-top: 10px;
+        font-size: 5.4rem;
+    }
+
+    &__bg {
+        &::before {
+            background-color: $color__blue;
+            position: absolute;
+            top: 45%;
+            left: 0px;
+            right: 5px;
+            height: 13px;
+            margin-top: -5px;
+            content: '';
+            z-index: -1;
+        }
+    }
+}
+
+.about {
+    color: $color__gray;
+    padding: 60px 0 60px 0;
+    font-size: 1.7rem;
+    line-height: 2.5rem;
+    max-width: 500px;
+    &__tooltip {
+        cursor: pointer;
+        color: $color__gold;
+    }
+}
+
+.contact {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    &__item {
+        margin-bottom: 18px;
+        display: flex;
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    &__emoji {
+        font-size: 2.2rem;
+    }
+
+    &__value {
+        cursor: pointer;
+        color: $color__gold;
+        font-size: 1.6rem;
+        margin-left: 18px;
+        border-bottom: 0px solid transparent;
+        transition: border 0.2s ease-in;
+        text-decoration: none;
+
+        &:hover {
+            border-bottom: 1px solid $color__gold;
+        }
+    }
+}

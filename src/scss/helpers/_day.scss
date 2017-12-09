@@ -1,0 +1,23 @@
+.day {
+    background-color: #fff;
+    color: $color__black;
+    .title {
+        &__bg {
+            &::before {
+                background-color: $color__gold;
+            }
+        }
+    }
+
+    .about {
+        &__tooltip {
+            color: $color__blue;
+        }
+    }
+
+    .contact {
+        &__value {
+            color: $color__blue;
+        }
+    }
+}
