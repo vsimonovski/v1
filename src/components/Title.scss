@@ -1,0 +1,58 @@
+$color__blue: #0068fa;
+
+.intro {
+  display: inline-block;
+  margin: 0;
+  position: relative;
+  z-index: 1;
+  font-family: 'ChunkFive', serif;
+  font-weight: 700;
+  font-size: 7.2rem;
+  letter-spacing: 1.5px;
+
+  &--pulse {
+    position: relative;
+  }
+
+  &--wave {
+    margin-left: -73px;
+    margin-bottom: 10px;
+    &::before {
+      content: '👋';
+      animation-name: wobble;
+      animation-duration: 1s;
+      animation-delay: 1s;
+
+      animation-fill-mode: both;
+      font-size: 5.4rem;
+      display: inline-block;
+      padding-top: 20px;
+      margin-right: 18px;
+    }
+
+    .background-line {
+      &::before {
+        left: 72px;
+      }
+    }
+  }
+}
+
+.emoji {
+  padding: 10px;
+  font-size: 5.4rem;
+}
+
+.background-line {
+  &::before {
+    background-color: $color__blue;
+    position: absolute;
+    top: 45%;
+    left: 0px;
+    right: 5px;
+    height: 13px;
+    margin-top: -5px;
+    content: '';
+    z-index: -1;
+  }
+}

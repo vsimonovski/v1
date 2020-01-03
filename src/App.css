@@ -1,0 +1,10 @@
+html,
+body {
+  height: 100%;
+  font-size: 10px;
+}
+
+#root,
+.App {
+  height: 100%;
+}

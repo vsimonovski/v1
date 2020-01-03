@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'ChunkFive';
+  src: url('../fonts/Chunkfive.otf') format('opentype');
+}
+@import url('https://fonts.googleapis.com/css?family=Roboto:400');
+@import './_responsive.scss';
+
+$color__black: #1b1c1f;
+
+.content {
+  height: 100%;
+  background-color: $color__black;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  padding: 0 15%;
+  overflow: auto;
+
+  &__inner {
+    position: relative;
+    margin: auto 0;
+  }
+}
+
+@keyframes wobble {
+  from {
+    transform: none;
+  }
+
+  15% {
+    transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -10deg);
+  }
+
+  30% {
+    transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 8deg);
+  }
+
+  45% {
+    transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -10deg);
+  }
+
+  60% {
+    transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 5deg);
+  }
+
+  75% {
+    transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -3deg);
+  }
+
+  to {
+    transform: none;
+  }
+}
