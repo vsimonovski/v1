@@ -1,0 +1,14 @@
+$color__gray: #828997;
+$color__gold: #ffca22;
+
+.about {
+  color: $color__gray;
+  padding: 60px 0 60px 0;
+  font-size: 1.7rem;
+  line-height: 2.5rem;
+  max-width: 500px;
+  .tooltip {
+    cursor: pointer;
+    color: $color__gold;
+  }
+}
