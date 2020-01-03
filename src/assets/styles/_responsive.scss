@@ -1,69 +1,69 @@
 @media screen and (max-width: 840px) {
   .content {
-    padding-right: 10%;
+    padding-right: 10% !important;
   }
 
   .intro {
-    font-size: 6rem;
+    font-size: 6rem !important;
     &--wave {
-      padding-left: 73px;
+      padding-left: 73px !important;
     }
   }
 
   .background-line {
-    display: none;
+    display: none !important;
   }
 }
 
 @media screen and (max-width: 750px) {
   .intro {
-    font-size: 5rem;
+    font-size: 5rem !important;
 
     &--wave {
       &::before {
-        font-size: 4rem;
+        font-size: 4rem !important;
       }
     }
   }
 
   .emoji {
-    font-size: 4rem;
+    font-size: 4rem !important;
   }
 
   .about {
-    font-size: 1.5rem;
+    font-size: 1.5rem !important;
   }
 
   .contact {
     .emoji {
-      font-size: 2rem;
+      font-size: 2rem !important;
     }
 
     .value {
-      font-size: 1.4rem;
+      font-size: 1.4rem !important;
     }
   }
 }
 
 @media screen and (max-width: 630px) {
   .intro {
-    font-size: 4rem;
+    font-size: 4rem !important;
 
     &--wave {
       &::before {
-        font-size: 3.5rem;
+        font-size: 3.5rem !important;
       }
     }
   }
 
   .emoji {
-    font-size: 3.5rem;
+    font-size: 3.5rem !important;
   }
 }
 
 @media screen and (max-width: 515px) {
   .intro {
-    font-size: 3.8rem;
+    font-size: 3.8rem !important;
   }
 }
 
