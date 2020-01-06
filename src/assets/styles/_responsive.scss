@@ -5,9 +5,6 @@
 
   .intro {
     font-size: 6rem !important;
-    &--wave {
-      padding-left: 73px !important;
-    }
   }
 
   .background-line {
@@ -19,7 +16,8 @@
   .intro {
     font-size: 5rem !important;
 
-    &--wave {
+    h1 &--wave {
+      margin-left: -60px;
       &::before {
         font-size: 4rem !important;
       }
@@ -50,6 +48,7 @@
     font-size: 4rem !important;
 
     &--wave {
+      margin-left: -60px !important;
       &::before {
         font-size: 3.5rem !important;
       }
@@ -79,5 +78,14 @@
 
   .content {
     padding: 0 10px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .intro.intro--wave {
+    margin-left: 0 !important;
+    &::before {
+      display: none;
+    }
   }
 }

@@ -16,7 +16,6 @@ $color__blue: #0068fa;
 
   &--wave {
     margin-left: -73px;
-    margin-bottom: 10px;
     &::before {
       content: '👋';
       animation-name: wobble;
