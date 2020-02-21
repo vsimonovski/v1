@@ -12,7 +12,7 @@ export default function Contact() {
           data-wenk="👈  Where I work"
           data-wenk-pos="right"
         >
-          @GridDynamics
+          @Hooloovoo
         </a>
       </div>
       <div className="item">
