@@ -2,9 +2,9 @@ import React from 'react';
 import './App.css';
 import 'normalize.css';
 import 'wenk';
-import Title from './components/Title';
-import About from './components/About';
-import Contact from './components/Contact';
+import Title from './components/title/Title';
+import About from './components/about/About';
+import Contact from './components/contact/Contact';
 
 function App() {
   return (
