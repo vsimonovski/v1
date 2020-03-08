@@ -12,7 +12,7 @@
       "prettier --write"
     ],
     "*.js": [
-      "eslint --fix"
+      "eslint --fix", "yarn test"
     ]
   },
   "dependencies": {
