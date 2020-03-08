@@ -1,50 +1,54 @@
-/* eslint-disable */
-
 import React from 'react';
-import './Contact.scss';
+import {
+  ContactItem,
+  ContactLink,
+  ContactSection,
+  Emoji
+} from './Contact.style';
 
 export default function Contact() {
   return (
-    <section className="contact">
-      <div className="item">
-        <span className="emoji">👨‍💻</span>
-        <a
+    <ContactSection>
+      <ContactItem>
+        {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
+        <Emoji>👨‍💻</Emoji>
+        <ContactLink
           href="https://www.linkedin.com/in/vsimonovski/"
-          className="value"
-          data-wenk="👈  Where I work"
+          data-wenk="👈  I work here"
           data-wenk-pos="right"
         >
           @Hooloovoo
-        </a>
-      </div>
-      <div className="item">
-        <span className="emoji">💻</span>
-        <a
+        </ContactLink>
+      </ContactItem>
+      <ContactItem>
+        {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
+        <Emoji>💻</Emoji>
+        <ContactLink
           href="https://github.com/vsimonovski"
-          className="value"
           data-wenk="👈  Check out my GitHub"
           data-wenk-pos="right"
         >
           @vsimonovski
-        </a>
-      </div>
-      <div className="item">
-        <span className="emoji">🗒️</span>
-        <a
+        </ContactLink>
+      </ContactItem>
+      <ContactItem>
+        {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
+        <Emoji>🗒️</Emoji>
+        <ContactLink
           href="http://blog.vsimonovski.me/"
-          className="value"
           data-wenk="👈  Sometimes I like to write about code"
           data-wenk-pos="right"
         >
           @blog.vsimonovski
-        </a>
-      </div>
-      <div className="item">
-        <span className="emoji">💌</span>
-        <a href="mailto:vsimonovski@outlook.com" className="value">
+        </ContactLink>
+      </ContactItem>
+      <ContactItem>
+        {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
+        <Emoji>💌</Emoji>
+        <ContactLink href="mailto:vsimonovski@outlook.com">
           Contact me?
-        </a>
-      </div>
-    </section>
+        </ContactLink>
+      </ContactItem>
+    </ContactSection>
   );
 }
