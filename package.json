@@ -12,7 +12,8 @@
       "prettier --write"
     ],
     "*.js": [
-      "eslint --fix", "yarn test"
+      "eslint --fix",
+      "yarn test --watchAll=false"
     ]
   },
   "dependencies": {

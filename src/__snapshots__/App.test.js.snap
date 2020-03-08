@@ -16,61 +16,62 @@ Object {
           >
             <section>
               <h1
-                class="intro intro--wave"
+                class="sc-AxhCb jbgHHb"
               >
+                <span
+                  class="sc-AxhUy hDvyzl"
+                />
                 Hi, I'm Vladimir
                 <span
-                  class="background-line"
+                  class="sc-AxjAm guzXHC"
                 />
               </h1>
               <br />
               <h1
-                class="intro intro--pulse"
+                class="sc-AxhCb jbgHHb"
               >
                 I
                 <span
                   aria-label="heart"
-                  class="emoji"
+                  class="sc-AxirZ sc-AxiKw fNNZmj"
                   role="img"
                 >
                   ❤️
                 </span>
                 Web
                 <span
-                  class="background-line"
+                  class="sc-AxjAm guzXHC"
                 />
               </h1>
             </section>
             <section
-              class="about"
+              class="sc-AxgMl gzSaJe"
             >
-              I’m a
-               
               <span
-                class="tooltip"
+                class="sc-AxheI iiQIKH"
                 data-wenk="An organism that converts  ☕  into code."
               >
-                javascript developer
+                JavaScript enthusiast
               </span>
                
-              with strong comp. sci. background. Passionate about code quality, best practices, security, performance, and everything web related.
+              with strong comp. sci. background.
               <br />
-               (p.s. I’m huge javascript enthusiast)
+               Passionate about code quality, best practices, security, performance and everything web related.
             </section>
             <section
-              class="contact"
+              class="sc-Axmtr NImwC"
             >
               <div
-                class="item"
+                class="sc-AxmLO gHYGBN"
               >
                 <span
-                  class="emoji"
+                  class="sc-fzozJi kmvZGQ"
                 >
                   👨‍💻
                 </span>
                 <a
-                  class="value"
-                  data-wenk="👈  Where I work"
+                  class="sc-fzoLsD exAFxw"
+                  data-wenk="👈  I work here"
                   data-wenk-pos="right"
                   href="https://www.linkedin.com/in/vsimonovski/"
                 >
@@ -78,15 +79,15 @@ Object {
                 </a>
               </div>
               <div
-                class="item"
+                class="sc-AxmLO gHYGBN"
               >
                 <span
-                  class="emoji"
+                  class="sc-fzozJi kmvZGQ"
                 >
                   💻
                 </span>
                 <a
-                  class="value"
+                  class="sc-fzoLsD exAFxw"
                   data-wenk="👈  Check out my GitHub"
                   data-wenk-pos="right"
                   href="https://github.com/vsimonovski"
@@ -95,15 +96,15 @@ Object {
                 </a>
               </div>
               <div
-                class="item"
+                class="sc-AxmLO gHYGBN"
               >
                 <span
-                  class="emoji"
+                  class="sc-fzozJi kmvZGQ"
                 >
                   🗒️
                 </span>
                 <a
-                  class="value"
+                  class="sc-fzoLsD exAFxw"
                   data-wenk="👈  Sometimes I like to write about code"
                   data-wenk-pos="right"
                   href="http://blog.vsimonovski.me/"
@@ -112,15 +113,15 @@ Object {
                 </a>
               </div>
               <div
-                class="item"
+                class="sc-AxmLO gHYGBN"
               >
                 <span
-                  class="emoji"
+                  class="sc-fzozJi kmvZGQ"
                 >
                   💌
                 </span>
                 <a
-                  class="value"
+                  class="sc-fzoLsD exAFxw"
                   href="mailto:vsimonovski@outlook.com"
                 >
                   Contact me?
@@ -144,61 +145,62 @@ Object {
         >
           <section>
             <h1
-              class="intro intro--wave"
+              class="sc-AxhCb jbgHHb"
             >
+              <span
+                class="sc-AxhUy hDvyzl"
+              />
               Hi, I'm Vladimir
               <span
-                class="background-line"
+                class="sc-AxjAm guzXHC"
               />
             </h1>
             <br />
             <h1
-              class="intro intro--pulse"
+              class="sc-AxhCb jbgHHb"
             >
               I
               <span
                 aria-label="heart"
-                class="emoji"
+                class="sc-AxirZ sc-AxiKw fNNZmj"
                 role="img"
               >
                 ❤️
               </span>
               Web
               <span
-                class="background-line"
+                class="sc-AxjAm guzXHC"
               />
             </h1>
           </section>
           <section
-            class="about"
+            class="sc-AxgMl gzSaJe"
           >
-            I’m a
-             
             <span
-              class="tooltip"
+              class="sc-AxheI iiQIKH"
               data-wenk="An organism that converts  ☕  into code."
             >
-              javascript developer
+              JavaScript enthusiast
             </span>
              
-            with strong comp. sci. background. Passionate about code quality, best practices, security, performance, and everything web related.
+            with strong comp. sci. background.
             <br />
-             (p.s. I’m huge javascript enthusiast)
+             Passionate about code quality, best practices, security, performance and everything web related.
           </section>
           <section
-            class="contact"
+            class="sc-Axmtr NImwC"
           >
             <div
-              class="item"
+              class="sc-AxmLO gHYGBN"
             >
               <span
-                class="emoji"
+                class="sc-fzozJi kmvZGQ"
               >
                 👨‍💻
               </span>
               <a
-                class="value"
-                data-wenk="👈  Where I work"
+                class="sc-fzoLsD exAFxw"
+                data-wenk="👈  I work here"
                 data-wenk-pos="right"
                 href="https://www.linkedin.com/in/vsimonovski/"
               >
@@ -206,15 +208,15 @@ Object {
               </a>
             </div>
             <div
-              class="item"
+              class="sc-AxmLO gHYGBN"
             >
               <span
-                class="emoji"
+                class="sc-fzozJi kmvZGQ"
               >
                 💻
               </span>
               <a
-                class="value"
+                class="sc-fzoLsD exAFxw"
                 data-wenk="👈  Check out my GitHub"
                 data-wenk-pos="right"
                 href="https://github.com/vsimonovski"
@@ -223,15 +225,15 @@ Object {
               </a>
             </div>
             <div
-              class="item"
+              class="sc-AxmLO gHYGBN"
             >
               <span
-                class="emoji"
+                class="sc-fzozJi kmvZGQ"
               >
                 🗒️
               </span>
               <a
-                class="value"
+                class="sc-fzoLsD exAFxw"
                 data-wenk="👈  Sometimes I like to write about code"
                 data-wenk-pos="right"
                 href="http://blog.vsimonovski.me/"
@@ -240,15 +242,15 @@ Object {
               </a>
             </div>
             <div
-              class="item"
+              class="sc-AxmLO gHYGBN"
             >
               <span
-                class="emoji"
+                class="sc-fzozJi kmvZGQ"
               >
                 💌
               </span>
               <a
-                class="value"
+                class="sc-fzoLsD exAFxw"
                 href="mailto:vsimonovski@outlook.com"
               >
                 Contact me?
