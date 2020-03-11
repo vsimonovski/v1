@@ -2,11 +2,6 @@
   "name": "react-version",
   "version": "0.1.0",
   "private": true,
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "lint-staged": {
     "*.{js,md,css,scss,html}": [
       "prettier --write"
