@@ -6,39 +6,35 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="about"
+        class="sc-AxjAm cVQJQo"
       >
-        I’m a
-         
         <span
-          class="tooltip"
+          class="sc-AxirZ iYWqHH"
           data-wenk="An organism that converts  ☕  into code."
         >
-          javascript developer
+          JavaScript enthusiast
         </span>
          
-        with strong comp. sci. background. Passionate about code quality, best practices, security, performance, and everything web related.
+        with strong comp. sci. background.
         <br />
-         (p.s. I’m huge javascript enthusiast)
+         Passionate about code quality, best practices, security, performance and everything web related.
       </section>
     </div>
   </body>,
   "container": <div>
     <section
-      class="about"
+      class="sc-AxjAm cVQJQo"
     >
-      I’m a
-       
       <span
-        class="tooltip"
+        class="sc-AxirZ iYWqHH"
         data-wenk="An organism that converts  ☕  into code."
       >
-        javascript developer
+        JavaScript enthusiast
       </span>
        
-      with strong comp. sci. background. Passionate about code quality, best practices, security, performance, and everything web related.
+      with strong comp. sci. background.
       <br />
-       (p.s. I’m huge javascript enthusiast)
+       Passionate about code quality, best practices, security, performance and everything web related.
     </section>
   </div>,
   "debug": [Function],

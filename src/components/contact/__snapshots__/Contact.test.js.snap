@@ -6,19 +6,19 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="contact"
+        class="sc-AxjAm kvSkDv"
       >
         <div
-          class="item"
+          class="sc-AxirZ eOjrta"
         >
           <span
-            class="emoji"
+            class="sc-AxiKw kLjlmC"
           >
             👨‍💻
           </span>
           <a
-            class="value"
-            data-wenk="👈  Where I work"
+            class="sc-AxhCb hyNeUs"
+            data-wenk="👈  I work here"
             data-wenk-pos="right"
             href="https://www.linkedin.com/in/vsimonovski/"
           >
@@ -26,15 +26,15 @@ Object {
           </a>
         </div>
         <div
-          class="item"
+          class="sc-AxirZ eOjrta"
         >
           <span
-            class="emoji"
+            class="sc-AxiKw kLjlmC"
           >
             💻
           </span>
           <a
-            class="value"
+            class="sc-AxhCb hyNeUs"
             data-wenk="👈  Check out my GitHub"
             data-wenk-pos="right"
             href="https://github.com/vsimonovski"
@@ -43,15 +43,15 @@ Object {
           </a>
         </div>
         <div
-          class="item"
+          class="sc-AxirZ eOjrta"
         >
           <span
-            class="emoji"
+            class="sc-AxiKw kLjlmC"
           >
             🗒️
           </span>
           <a
-            class="value"
+            class="sc-AxhCb hyNeUs"
             data-wenk="👈  Sometimes I like to write about code"
             data-wenk-pos="right"
             href="http://blog.vsimonovski.me/"
@@ -60,15 +60,15 @@ Object {
           </a>
         </div>
         <div
-          class="item"
+          class="sc-AxirZ eOjrta"
         >
           <span
-            class="emoji"
+            class="sc-AxiKw kLjlmC"
           >
             💌
           </span>
           <a
-            class="value"
+            class="sc-AxhCb hyNeUs"
             href="mailto:vsimonovski@outlook.com"
           >
             Contact me?
@@ -79,19 +79,19 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="contact"
+      class="sc-AxjAm kvSkDv"
     >
       <div
-        class="item"
+        class="sc-AxirZ eOjrta"
       >
         <span
-          class="emoji"
+          class="sc-AxiKw kLjlmC"
         >
           👨‍💻
         </span>
         <a
-          class="value"
-          data-wenk="👈  Where I work"
+          class="sc-AxhCb hyNeUs"
+          data-wenk="👈  I work here"
           data-wenk-pos="right"
           href="https://www.linkedin.com/in/vsimonovski/"
         >
@@ -99,15 +99,15 @@ Object {
         </a>
       </div>
       <div
-        class="item"
+        class="sc-AxirZ eOjrta"
       >
         <span
-          class="emoji"
+          class="sc-AxiKw kLjlmC"
         >
           💻
         </span>
         <a
-          class="value"
+          class="sc-AxhCb hyNeUs"
           data-wenk="👈  Check out my GitHub"
           data-wenk-pos="right"
           href="https://github.com/vsimonovski"
@@ -116,15 +116,15 @@ Object {
         </a>
       </div>
       <div
-        class="item"
+        class="sc-AxirZ eOjrta"
       >
         <span
-          class="emoji"
+          class="sc-AxiKw kLjlmC"
         >
           🗒️
         </span>
         <a
-          class="value"
+          class="sc-AxhCb hyNeUs"
           data-wenk="👈  Sometimes I like to write about code"
           data-wenk-pos="right"
           href="http://blog.vsimonovski.me/"
@@ -133,15 +133,15 @@ Object {
         </a>
       </div>
       <div
-        class="item"
+        class="sc-AxirZ eOjrta"
       >
         <span
-          class="emoji"
+          class="sc-AxiKw kLjlmC"
         >
           💌
         </span>
         <a
-          class="value"
+          class="sc-AxhCb hyNeUs"
           href="mailto:vsimonovski@outlook.com"
         >
           Contact me?

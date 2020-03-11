@@ -1,22 +1,21 @@
 import React from 'react';
-import './Title.scss';
+import { BackgroundLine, EmojiWithAttrs, Intro, Wave } from './Title.style';
 
 export default function Title() {
   return (
     <section>
-      <h1 className="intro intro--wave">
+      <Intro>
+        <Wave />
         Hi, I'm Vladimir
-        <span className="background-line"></span>
-      </h1>
+        <BackgroundLine />
+      </Intro>
       <br />
-      <h1 className="intro intro--pulse">
-        I
-        <span className="emoji" role="img" aria-label="heart">
-          ❤️
-        </span>
+      <Intro>
+        {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}I
+        <EmojiWithAttrs>❤️</EmojiWithAttrs>
         Web
-        <span className="background-line"></span>
-      </h1>
+        <BackgroundLine />
+      </Intro>
     </section>
   );
 }
