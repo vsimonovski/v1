@@ -1,24 +1,27 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { ThemeProvider } from 'styled-components';
 import './App.css';
 import 'normalize.css';
 import 'wenk';
 import Title from './components/title/Title';
 import About from './components/about/About';
 import Contact from './components/contact/Contact';
-import { ThemeProvider } from 'styled-components';
-import { Theme } from './Theme';
+import { Content, ContentInner } from './App.style';
+import { darkTheme } from './theme';
 
 function App() {
+  const [theme] = useState(darkTheme);
+
   return (
-    <ThemeProvider theme={Theme}>
+    <ThemeProvider theme={theme}>
       <div className="App">
-        <div className="content">
-          <div className="content__inner">
+        <Content>
+          <ContentInner>
             <Title />
             <About />
             <Contact />
-          </div>
-        </div>
+          </ContentInner>
+        </Content>
       </div>
     </ThemeProvider>
   );

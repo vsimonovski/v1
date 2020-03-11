@@ -9,38 +9,38 @@ Object {
         class="App"
       >
         <div
-          class="content"
+          class="sc-fzpans hJAUgc"
         >
           <div
-            class="content__inner"
+            class="sc-fzplWN jVRtJf"
           >
             <section>
               <h1
-                class="sc-AxhCb jbgHHb"
+                class="sc-AxhCb leQIUN"
               >
                 <span
-                  class="sc-AxhUy hDvyzl"
+                  class="sc-AxhUy flUQeB"
                 />
                 Hi, I'm Vladimir
                 <span
-                  class="sc-AxjAm guzXHC"
+                  class="sc-AxjAm iSVuRx"
                 />
               </h1>
               <br />
               <h1
-                class="sc-AxhCb jbgHHb"
+                class="sc-AxhCb leQIUN"
               >
                 I
                 <span
                   aria-label="heart"
-                  class="sc-AxirZ sc-AxiKw fNNZmj"
+                  class="sc-AxirZ sc-AxiKw cUGkJy"
                   role="img"
                 >
                   ❤️
                 </span>
                 Web
                 <span
-                  class="sc-AxjAm guzXHC"
+                  class="sc-AxjAm iSVuRx"
                 />
               </h1>
             </section>
@@ -138,38 +138,38 @@ Object {
       class="App"
     >
       <div
-        class="content"
+        class="sc-fzpans hJAUgc"
       >
         <div
-          class="content__inner"
+          class="sc-fzplWN jVRtJf"
         >
           <section>
             <h1
-              class="sc-AxhCb jbgHHb"
+              class="sc-AxhCb leQIUN"
             >
               <span
-                class="sc-AxhUy hDvyzl"
+                class="sc-AxhUy flUQeB"
               />
               Hi, I'm Vladimir
               <span
-                class="sc-AxjAm guzXHC"
+                class="sc-AxjAm iSVuRx"
               />
             </h1>
             <br />
             <h1
-              class="sc-AxhCb jbgHHb"
+              class="sc-AxhCb leQIUN"
             >
               I
               <span
                 aria-label="heart"
-                class="sc-AxirZ sc-AxiKw fNNZmj"
+                class="sc-AxirZ sc-AxiKw cUGkJy"
                 role="img"
               >
                 ❤️
               </span>
               Web
               <span
-                class="sc-AxjAm guzXHC"
+                class="sc-AxjAm iSVuRx"
               />
             </h1>
           </section>

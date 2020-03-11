@@ -13,7 +13,7 @@
     ],
     "*.js": [
       "eslint --fix",
-      "yarn test --watchAll=false"
+      "yarn test --watchAll=false --passWithNoTests"
     ]
   },
   "dependencies": {

@@ -5,18 +5,28 @@ export const BackgroundLine = styled.span`
     background-color: ${props => props.theme.bgLineColor};
     position: absolute;
     top: 43%;
-    left: 0px;
+    left: 0;
     right: 5px;
     height: 13px;
     margin-top: -5px;
     content: '';
     z-index: -1;
   }
+
+  @media screen and (max-width: 831px) {
+    &::before {
+      display: none;
+    }
+  }
 `;
 
 export const Emoji = styled.span`
   padding: 10px;
   font-size: 5.4rem;
+
+  @media screen and (max-width: 480px) {
+    font-size: 3.5rem;
+  }
 `;
 
 export const EmojiWithAttrs = styled(Emoji).attrs({
@@ -33,6 +43,10 @@ export const Intro = styled.h1`
   font-weight: 700;
   font-size: 7.2rem;
   letter-spacing: 1.5px;
+
+  @media screen and (max-width: 480px) {
+    font-size: 4.5rem;
+  }
 `;
 
 const wobble = keyframes`
@@ -78,5 +92,11 @@ export const Wave = styled.span`
     display: inline-block;
     padding-top: 20px;
     margin-right: 18px;
+  }
+
+  @media screen and (max-width: 500px) {
+    &::before {
+      display: none;
+    }
   }
 `;
