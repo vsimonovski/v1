@@ -12,7 +12,5 @@ export const ToggleIcon = styled.i`
 
   &:hover {
     cursor: pointer;
-    //transform: rotate(-25deg);
-    //transition: all 350ms cubic-bezier(0.215, 0.61, 0.355, 1);
   }
 `;
