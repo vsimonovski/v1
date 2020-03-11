@@ -8,7 +8,7 @@
     ],
     "*.js": [
       "eslint --fix",
-      "yarn test --watchAll=false --passWithNoTests"
+      "yarn test --watchAll=false --passWithNoTests --findRelatedTests"
     ]
   },
   "dependencies": {
