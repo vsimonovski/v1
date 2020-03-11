@@ -7,28 +7,31 @@ Object {
     <div>
       <section>
         <h1
-          class="intro intro--wave"
+          class="sc-AxhCb leQIUN"
         >
+          <span
+            class="sc-AxhUy flUQeB"
+          />
           Hi, I'm Vladimir
           <span
-            class="background-line"
+            class="sc-AxjAm giDNbv"
           />
         </h1>
         <br />
         <h1
-          class="intro intro--pulse"
+          class="sc-AxhCb leQIUN"
         >
           I
           <span
             aria-label="heart"
-            class="emoji"
+            class="sc-AxirZ sc-AxiKw cUGkJy"
             role="img"
           >
             ❤️
           </span>
           Web
           <span
-            class="background-line"
+            class="sc-AxjAm giDNbv"
           />
         </h1>
       </section>
@@ -37,28 +40,31 @@ Object {
   "container": <div>
     <section>
       <h1
-        class="intro intro--wave"
+        class="sc-AxhCb leQIUN"
       >
+        <span
+          class="sc-AxhUy flUQeB"
+        />
         Hi, I'm Vladimir
         <span
-          class="background-line"
+          class="sc-AxjAm giDNbv"
         />
       </h1>
       <br />
       <h1
-        class="intro intro--pulse"
+        class="sc-AxhCb leQIUN"
       >
         I
         <span
           aria-label="heart"
-          class="emoji"
+          class="sc-AxirZ sc-AxiKw cUGkJy"
           role="img"
         >
           ❤️
         </span>
         Web
         <span
-          class="background-line"
+          class="sc-AxjAm giDNbv"
         />
       </h1>
     </section>
