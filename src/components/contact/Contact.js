@@ -6,7 +6,7 @@ import {
   Emoji
 } from './Contact.style';
 
-export default function Contact() {
+function Contact() {
   return (
     <ContactSection>
       <ContactItem>
@@ -52,3 +52,5 @@ export default function Contact() {
     </ContactSection>
   );
 }
+
+export default Contact;

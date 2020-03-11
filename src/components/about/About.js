@@ -1,7 +1,7 @@
 import React from 'react';
 import { AboutSection, Tooltip } from './About.style';
 
-export default function About() {
+function About() {
   return (
     <AboutSection>
       <Tooltip data-wenk="An organism that converts  ☕  into code.">
@@ -13,3 +13,5 @@ export default function About() {
     </AboutSection>
   );
 }
+
+export default About;

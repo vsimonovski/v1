@@ -1,5 +1,10 @@
+export const ACTIVE_THEME = {
+  DARK: 'DARK_THEME',
+  LIGHT: 'LIGHT_THEME'
+};
+
 export const darkTheme = {
-  NAME: 'DARK_THEME',
+  NAME: ACTIVE_THEME.DARK,
   bgLineColor: '#0068fa',
   textColor: '#828997',
   textHighlight: '#ffca22',
@@ -7,4 +12,11 @@ export const darkTheme = {
   titleTextColor: '#fff'
 };
 
-// TODO: Define light theme here
+export const lightTheme = {
+  ...darkTheme,
+  NAME: ACTIVE_THEME.LIGHT,
+  bgColor: darkTheme.titleTextColor,
+  titleTextColor: darkTheme.bgColor,
+  bgLineColor: darkTheme.textHighlight,
+  textHighlight: darkTheme.bgLineColor
+};
