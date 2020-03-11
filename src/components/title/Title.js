@@ -1,7 +1,7 @@
 import React from 'react';
 import { BackgroundLine, EmojiWithAttrs, Intro, Wave } from './Title.style';
 
-export default function Title() {
+function Title() {
   return (
     <section>
       <Intro>
@@ -19,3 +19,5 @@ export default function Title() {
     </section>
   );
 }
+
+export default Title;
