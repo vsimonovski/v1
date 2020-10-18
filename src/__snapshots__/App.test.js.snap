@@ -6,56 +6,56 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="sc-fznyAO cDDUoP"
+        class="sc-crzoUp ntKnU"
       >
         <i
-          class="sc-fznKkj eguTRa gg-sun"
+          class="sc-dIsAE geNltT gg-sun"
         />
       </div>
       <div
         class="App"
       >
         <div
-          class="sc-fzpans hJAUgc"
+          class="sc-kEqYlL gdEYZF"
         >
           <div
-            class="sc-fzplWN jVRtJf"
+            class="sc-iqAbSa cljRZQ"
           >
             <section>
               <h1
-                class="sc-AxhCb leQIUN"
+                class="sc-hKFyIo eKOBkk"
               >
                 <span
-                  class="sc-AxhUy flUQeB"
+                  class="sc-eCApGN jPjvkh"
                 />
                 Hi, I'm Vladimir
                 <span
-                  class="sc-AxjAm iSVuRx"
+                  class="sc-bdnylx bKrRUw"
                 />
               </h1>
               <br />
               <h1
-                class="sc-AxhCb leQIUN"
+                class="sc-hKFyIo eKOBkk"
               >
                 I
                 <span
                   aria-label="heart"
-                  class="sc-AxirZ sc-AxiKw cUGkJy"
+                  class="sc-gtssRu sc-dlnjPT fEqEBU"
                   role="img"
                 >
                   ❤️
                 </span>
                 Web
                 <span
-                  class="sc-AxjAm iSVuRx"
+                  class="sc-bdnylx bKrRUw"
                 />
               </h1>
             </section>
             <section
-              class="sc-AxgMl gzSaJe"
+              class="sc-jSFkmK jtVEkY"
             >
               <span
-                class="sc-AxheI iiQIKH"
+                class="sc-gKAblj hbzdUk"
                 data-wenk="An organism that converts  ☕  into code."
               >
                 JavaScript enthusiast
@@ -66,18 +66,18 @@ Object {
                Passionate about code quality, best practices, security, performance and everything web related.
             </section>
             <section
-              class="sc-Axmtr NImwC"
+              class="sc-iCoHVE emmMtZ"
             >
               <div
-                class="sc-AxmLO gHYGBN"
+                class="sc-fujyUd eMGpic"
               >
                 <span
-                  class="sc-fzozJi kmvZGQ"
+                  class="sc-pNWxx jeogQg"
                 >
                   👨‍💻
                 </span>
                 <a
-                  class="sc-fzoLsD exAFxw"
+                  class="sc-jrsJCI jlECWM"
                   data-wenk="👈  I work here"
                   data-wenk-pos="right"
                   href="https://www.linkedin.com/in/vsimonovski/"
@@ -86,15 +86,15 @@ Object {
                 </a>
               </div>
               <div
-                class="sc-AxmLO gHYGBN"
+                class="sc-fujyUd eMGpic"
               >
                 <span
-                  class="sc-fzozJi kmvZGQ"
+                  class="sc-pNWxx jeogQg"
                 >
                   💻
                 </span>
                 <a
-                  class="sc-fzoLsD exAFxw"
+                  class="sc-jrsJCI jlECWM"
                   data-wenk="👈  Check out my GitHub"
                   data-wenk-pos="right"
                   href="https://github.com/vsimonovski"
@@ -103,15 +103,15 @@ Object {
                 </a>
               </div>
               <div
-                class="sc-AxmLO gHYGBN"
+                class="sc-fujyUd eMGpic"
               >
                 <span
-                  class="sc-fzozJi kmvZGQ"
+                  class="sc-pNWxx jeogQg"
                 >
                   🗒️
                 </span>
                 <a
-                  class="sc-fzoLsD exAFxw"
+                  class="sc-jrsJCI jlECWM"
                   data-wenk="👈  Sometimes I like to write about code"
                   data-wenk-pos="right"
                   href="http://blog.vsimonovski.me/"
@@ -120,15 +120,15 @@ Object {
                 </a>
               </div>
               <div
-                class="sc-AxmLO gHYGBN"
+                class="sc-fujyUd eMGpic"
               >
                 <span
-                  class="sc-fzozJi kmvZGQ"
+                  class="sc-pNWxx jeogQg"
                 >
                   💌
                 </span>
                 <a
-                  class="sc-fzoLsD exAFxw"
+                  class="sc-jrsJCI jlECWM"
                   href="mailto:vsimonovski@outlook.com"
                 >
                   Contact me?
@@ -142,56 +142,56 @@ Object {
   </body>,
   "container": <div>
     <div
-      class="sc-fznyAO cDDUoP"
+      class="sc-crzoUp ntKnU"
     >
       <i
-        class="sc-fznKkj eguTRa gg-sun"
+        class="sc-dIsAE geNltT gg-sun"
       />
     </div>
     <div
       class="App"
     >
       <div
-        class="sc-fzpans hJAUgc"
+        class="sc-kEqYlL gdEYZF"
       >
         <div
-          class="sc-fzplWN jVRtJf"
+          class="sc-iqAbSa cljRZQ"
         >
           <section>
             <h1
-              class="sc-AxhCb leQIUN"
+              class="sc-hKFyIo eKOBkk"
             >
               <span
-                class="sc-AxhUy flUQeB"
+                class="sc-eCApGN jPjvkh"
               />
               Hi, I'm Vladimir
               <span
-                class="sc-AxjAm iSVuRx"
+                class="sc-bdnylx bKrRUw"
               />
             </h1>
             <br />
             <h1
-              class="sc-AxhCb leQIUN"
+              class="sc-hKFyIo eKOBkk"
             >
               I
               <span
                 aria-label="heart"
-                class="sc-AxirZ sc-AxiKw cUGkJy"
+                class="sc-gtssRu sc-dlnjPT fEqEBU"
                 role="img"
               >
                 ❤️
               </span>
               Web
               <span
-                class="sc-AxjAm iSVuRx"
+                class="sc-bdnylx bKrRUw"
               />
             </h1>
           </section>
           <section
-            class="sc-AxgMl gzSaJe"
+            class="sc-jSFkmK jtVEkY"
           >
             <span
-              class="sc-AxheI iiQIKH"
+              class="sc-gKAblj hbzdUk"
               data-wenk="An organism that converts  ☕  into code."
             >
               JavaScript enthusiast
@@ -202,18 +202,18 @@ Object {
              Passionate about code quality, best practices, security, performance and everything web related.
           </section>
           <section
-            class="sc-Axmtr NImwC"
+            class="sc-iCoHVE emmMtZ"
           >
             <div
-              class="sc-AxmLO gHYGBN"
+              class="sc-fujyUd eMGpic"
             >
               <span
-                class="sc-fzozJi kmvZGQ"
+                class="sc-pNWxx jeogQg"
               >
                 👨‍💻
               </span>
               <a
-                class="sc-fzoLsD exAFxw"
+                class="sc-jrsJCI jlECWM"
                 data-wenk="👈  I work here"
                 data-wenk-pos="right"
                 href="https://www.linkedin.com/in/vsimonovski/"
@@ -222,15 +222,15 @@ Object {
               </a>
             </div>
             <div
-              class="sc-AxmLO gHYGBN"
+              class="sc-fujyUd eMGpic"
             >
               <span
-                class="sc-fzozJi kmvZGQ"
+                class="sc-pNWxx jeogQg"
               >
                 💻
               </span>
               <a
-                class="sc-fzoLsD exAFxw"
+                class="sc-jrsJCI jlECWM"
                 data-wenk="👈  Check out my GitHub"
                 data-wenk-pos="right"
                 href="https://github.com/vsimonovski"
@@ -239,15 +239,15 @@ Object {
               </a>
             </div>
             <div
-              class="sc-AxmLO gHYGBN"
+              class="sc-fujyUd eMGpic"
             >
               <span
-                class="sc-fzozJi kmvZGQ"
+                class="sc-pNWxx jeogQg"
               >
                 🗒️
               </span>
               <a
-                class="sc-fzoLsD exAFxw"
+                class="sc-jrsJCI jlECWM"
                 data-wenk="👈  Sometimes I like to write about code"
                 data-wenk-pos="right"
                 href="http://blog.vsimonovski.me/"
@@ -256,15 +256,15 @@ Object {
               </a>
             </div>
             <div
-              class="sc-AxmLO gHYGBN"
+              class="sc-fujyUd eMGpic"
             >
               <span
-                class="sc-fzozJi kmvZGQ"
+                class="sc-pNWxx jeogQg"
               >
                 💌
               </span>
               <a
-                class="sc-fzoLsD exAFxw"
+                class="sc-jrsJCI jlECWM"
                 href="mailto:vsimonovski@outlook.com"
               >
                 Contact me?
